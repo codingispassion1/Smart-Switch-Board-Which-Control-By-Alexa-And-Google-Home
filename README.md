@@ -1,7 +1,7 @@
 # Smart Switch Board (Alexa & Google Home) — SinricPro + NodeMCU (ESP8266)
 
 **Language:** Hinglish + English  
-**Author:** Anirudh Sharma  
+**Author:** Aniruddh Sharma  
 
 ## Overview
 This project demonstrates a **4-channel relay-based smart switchboard** that can be controlled through **Alexa** and **Google Home** using the **SinricPro** service and a **NodeMCU (ESP8266)**.
@@ -40,15 +40,3 @@ See `hardware/WIRING.md` for detailed wiring and relay pin mapping.
 4. Select board: **NodeMCU 1.0 (ESP-12E Module)** and correct COM port.
 5. Upload.
 
-## GitHub push (from local repo folder)
-```bash
-git init
-git add .
-git commit -m "Initial: Smart Switch Board with SinricPro & NodeMCU"
-git branch -M main
-git remote add origin https://github.com/<your-username>/<repo-name>.git
-git push -u origin main
-```
-
-## License
-This project uses the MIT License — see `LICENSE`.
