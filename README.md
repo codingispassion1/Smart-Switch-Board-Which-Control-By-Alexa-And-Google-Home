@@ -1,11 +1,10 @@
 # Smart Switch Board (Alexa & Google Home) — SinricPro + NodeMCU (ESP8266)
 
 **Language:** Hinglish + English  
-**Author:** Anirudh (replace with your name)  
-**Status:** Production-ready starter repo — customise device IDs & credentials.
+**Author:** Anirudh Sharma  
 
 ## Overview
-Yeh project ek 4-channel relay-based smart switch board dikhata hai jo **Alexa** aur **Google Home** se control hota hai using **SinricPro** service and **NodeMCU (ESP8266)**.
+This project demonstrates a **4-channel relay-based smart switchboard** that can be controlled through **Alexa** and **Google Home** using the **SinricPro** service and a **NodeMCU (ESP8266)**.
 
 Features:
 - 4 Relay channels (ON / OFF)
